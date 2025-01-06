@@ -16,7 +16,7 @@ This project showcases a simple, structured recipe page layout for a basic omele
 ### Links
 
 - Solution URL: [Solution Link] (https://www.frontendmentor.io/solutions/solution-4-responsive-frontend-mentor-recipe-page-L4JtOc5qDo)
-- Live Version URL: [Live Site Link]([https://your-live-site-url.com](https://elclassico-eng.github.io/7.-Recipe-page/))
+- Live Version URL: (https://your-live-site-url.com](https://elclassico-eng.github.io/7.-Recipe-page/)
 
 ## My Process
 
